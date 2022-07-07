@@ -1,6 +1,6 @@
 # ecomapp
 
-A new Flutter project.
+OnBoarding Screens to Ecomm App build using Flutter and Dart with GetX State management and MVC Architecture.
 
 ## Getting Started
 
